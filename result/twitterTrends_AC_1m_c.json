@@ -1,0 +1,212 @@
+[
+ {
+  "name": "Covid",
+  "url": "http://twitter.com/search?q=Covid",
+  "value": 2247836,
+  "location": "IR",
+  "in_date": "2020-11-14 00:00:00"
+ },
+ {
+  "name": "Covid",
+  "url": "http://twitter.com/search?q=Covid",
+  "value": 1889223,
+  "location": "AU",
+  "in_date": "2020-11-01 00:00:00"
+ },
+ {
+  "name": "Covid",
+  "url": "http://twitter.com/search?q=Covid",
+  "value": 1839053,
+  "location": "IR",
+  "in_date": "2020-10-30 00:00:00"
+ },
+ {
+  "name": "Covid",
+  "url": "http://twitter.com/search?q=Covid",
+  "value": 1796740,
+  "location": "IR",
+  "in_date": "2020-11-22 00:00:00"
+ },
+ {
+  "name": "COVID-19",
+  "url": "http://twitter.com/search?q=COVID-19",
+  "value": 1096858,
+  "location": "IR",
+  "in_date": "2020-11-10 00:00:00"
+ },
+ {
+  "name": "Covid-19",
+  "url": "http://twitter.com/search?q=Covid-19",
+  "value": 895197,
+  "location": "FR",
+  "in_date": "2020-10-27 00:00:00"
+ },
+ {
+  "name": "COVID-19",
+  "url": "http://twitter.com/search?q=COVID-19",
+  "value": 891158,
+  "location": "CA",
+  "in_date": "2020-11-21 00:00:00"
+ },
+ {
+  "name": "COVID-19",
+  "url": "http://twitter.com/search?q=COVID-19",
+  "value": 851132,
+  "location": "CA",
+  "in_date": "2020-10-27 00:00:00"
+ },
+ {
+  "name": "COVID-19",
+  "url": "http://twitter.com/search?q=COVID-19",
+  "value": 817620,
+  "location": "IR",
+  "in_date": "2020-11-03 00:00:00"
+ },
+ {
+  "name": "COVID-19",
+  "url": "http://twitter.com/search?q=COVID-19",
+  "value": 817597,
+  "location": "CA",
+  "in_date": "2020-11-12 00:00:00"
+ },
+ {
+  "name": "COVID-19",
+  "url": "http://twitter.com/search?q=COVID-19",
+  "value": 775657,
+  "location": "IR",
+  "in_date": "2020-11-17 00:00:00"
+ },
+ {
+  "name": "COVID-19",
+  "url": "http://twitter.com/search?q=COVID-19",
+  "value": 774832,
+  "location": "CA",
+  "in_date": "2020-11-17 00:00:00"
+ },
+ {
+  "name": "COVID-19",
+  "url": "http://twitter.com/search?q=COVID-19",
+  "value": 722335,
+  "location": "IR",
+  "in_date": "2020-11-02 00:00:00"
+ },
+ {
+  "name": "COVID-19",
+  "url": "http://twitter.com/search?q=COVID-19",
+  "value": 721677,
+  "location": "CA",
+  "in_date": "2020-11-02 00:00:00"
+ },
+ {
+  "name": "COVID-19",
+  "url": "http://twitter.com/search?q=COVID-19",
+  "value": 618988,
+  "location": "IR",
+  "in_date": "2020-11-04 00:00:00"
+ },
+ {
+  "name": "COVID-19",
+  "url": "http://twitter.com/search?q=COVID-19",
+  "value": 609974,
+  "location": "IR",
+  "in_date": "2020-11-06 00:00:00"
+ },
+ {
+  "name": "Coronavirus",
+  "url": "http://twitter.com/search?q=Coronavirus",
+  "value": 600480,
+  "location": "CA",
+  "in_date": "2020-10-25 00:00:00"
+ },
+ {
+  "name": "Covid 19",
+  "url": "http://twitter.com/search?q=%22Covid+19%22",
+  "value": 592338,
+  "location": "IR",
+  "in_date": "2020-11-05 00:00:00"
+ },
+ {
+  "name": "COVID-19",
+  "url": "http://twitter.com/search?q=COVID-19",
+  "value": 587441,
+  "location": "IR",
+  "in_date": "2020-11-09 00:00:00"
+ },
+ {
+  "name": "COVID-19",
+  "url": "http://twitter.com/search?q=COVID-19",
+  "value": 587441,
+  "location": "GE",
+  "in_date": "2020-11-09 00:00:00"
+ },
+ {
+  "name": "COVID-19",
+  "url": "http://twitter.com/search?q=COVID-19",
+  "value": 587441,
+  "location": "IT",
+  "in_date": "2020-11-09 00:00:00"
+ },
+ {
+  "name": "COVID-19",
+  "url": "http://twitter.com/search?q=COVID-19",
+  "value": 586197,
+  "location": "CA",
+  "in_date": "2020-11-09 00:00:00"
+ },
+ {
+  "name": "Coronavirus",
+  "url": "http://twitter.com/search?q=Coronavirus",
+  "value": 532326,
+  "location": "IR",
+  "in_date": "2020-11-01 00:00:00"
+ },
+ {
+  "name": "with covid",
+  "url": "http://twitter.com/search?q=%22with+covid%22",
+  "value": 262763,
+  "location": "CA",
+  "in_date": "2020-11-10 00:00:00"
+ },
+ {
+  "name": "#Covid_19",
+  "url": "http://twitter.com/search?q=%23Covid_19",
+  "value": 118536,
+  "location": "GE",
+  "in_date": "2020-11-18 00:00:00"
+ },
+ {
+  "name": "#Covid_19",
+  "url": "http://twitter.com/search?q=%23Covid_19",
+  "value": 70913,
+  "location": "FR",
+  "in_date": "2020-11-11 00:00:00"
+ },
+ {
+  "name": "#COVID",
+  "url": "http://twitter.com/search?q=%23COVID",
+  "value": 61489,
+  "location": "GE",
+  "in_date": "2020-10-28 00:00:00"
+ },
+ {
+  "name": "#COVID",
+  "url": "http://twitter.com/search?q=%23COVID",
+  "value": 61405,
+  "location": "CA",
+  "in_date": "2020-10-28 00:00:00"
+ },
+ {
+  "name": "As COVID-19",
+  "url": "http://twitter.com/search?q=%22As+COVID-19%22",
+  "value": 57473,
+  "location": "CA",
+  "in_date": "2020-11-24 00:00:00"
+ },
+ {
+  "name": "#日本のコロナは自民党の人災",
+  "url": "http://twitter.com/search?q=%23%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AF%E8%87",
+  "value": 52306,
+  "location": "JP",
+  "in_date": "2020-11-18 00:00:00"
+ }
+]
